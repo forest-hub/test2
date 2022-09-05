@@ -4,6 +4,9 @@
 	
     partial class FrmMain
     {
+		
+		
+		
         /// <summary>
         /// Required designer variable.
         /// </summary>
