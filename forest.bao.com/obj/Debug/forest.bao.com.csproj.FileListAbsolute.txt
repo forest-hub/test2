@@ -1,0 +1,12 @@
+D:\Users\forest.bao.com\forest.bao.com\bin\Debug\forest.bao.com.exe.config
+D:\Users\forest.bao.com\forest.bao.com\bin\Debug\forest.bao.com.exe
+D:\Users\forest.bao.com\forest.bao.com\bin\Debug\forest.bao.com.pdb
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.csproj.AssemblyReference.cache
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.csproj.SuggestedBindingRedirects.cache
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.FrmLoginScreen.resources
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.Properties.Resources.resources
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.csproj.GenerateResource.cache
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.csproj.CoreCompileInputs.cache
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.exe
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.pdb
+D:\Users\forest.bao.com\forest.bao.com\obj\Debug\forest.bao.com.FrmMain.resources
