@@ -1,5 +1,7 @@
 ﻿namespace forest.bao.com
 {
+	
+	
     partial class FrmMain
     {
         /// <summary>
